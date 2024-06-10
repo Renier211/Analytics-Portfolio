@@ -1,3 +1,5 @@
+
+Analytics Portfolio
 Welcome to my analytics portfolio! This repository is designed to showcase my analytical skills and demonstrate how I can leverage data analytics to drive business insights and support decision-making processes. Below, you will find detailed information about my background, skills, and the purpose of this repository.
 
 About Me
@@ -39,3 +41,13 @@ Conclusion
 This repository serves as a testament to my analytical skills and my ability to leverage data to drive business insights. I am confident that my expertise in data analytics, financial modeling, and programming, combined with my strong work ethic and leadership skills, make me a valuable asset to any organization.
 
 Thank you for visiting my portfolio. Please feel free to explore the projects and reach out if you have any questions or would like to collaborate.
+
+Contact Information:
+
+Email: [Your Email Address]
+GitHub: [Your GitHub Profile]
+Feel free to connect with me to discuss potential opportunities or collaborations!
+
+Disclaimer: The data used in these projects is either publicly available or has been anonymized to protect sensitive information.
+
+By Renier van Niekerk
