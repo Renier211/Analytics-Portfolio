@@ -16,8 +16,6 @@ The provided code is designed to analyze quarterly mutual fund data from an Exce
 
 6) Saving the Combined DataFrame: The final aggregated DataFrame, which contains the stocks and the quarters they were held, is saved to a new Excel file for further analysis or reporting.
 
-7) Validating Data Consistency: The code performs a validation step to ensure the accuracy of the stock counts by comparing the actual number of stocks in each quarter with the calculated values from the aggregated DataFrame. This helps identify any discrepancies.
-
 
 
 
