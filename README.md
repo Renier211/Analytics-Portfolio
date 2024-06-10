@@ -19,24 +19,20 @@ The primary purpose of this repository is to demonstrate my analytical skills an
 - Develop Financial Models: I demonstrate my expertise in building financial models that provide actionable insights and support strategic planning.
 - Showcase Programming Skills: Through my coding projects, I highlight my programming skills and problem-solving abilities.
 
-### Projects Included  
-1. Data Analysis in R  
+# Projects Included  
+### 1. Data Analysis in R  
 In this project, I analyze a dataset containing information about policyholders, insurance details, and claims. The main variable of interest is the premium paid by policyholders. Key tasks performed in this project include:  
     - Data cleaning and preprocessing  
     - Exploratory data analysis  
     - Statistical analysis to identify trends and patterns  
     - Data visualization to present findings  
   
-### Conclusion  
-This repository serves as a testament to my analytical skills and my ability to leverage data to drive business insights. I am confident that my expertise in data analytics, financial modeling, and programming, combined with my strong work ethic and leadership skills, make me a valuable asset to any organization.
-
-Thank you for visiting my portfolio. Please feel free to explore the projects and reach out if you have any questions.
 
 # Contact Information:
 
 Email:   renier211@gmail.com  
 Cell:    +27 82 529 8970  
 
-Feel free to connect with me to discuss potential opportunities or collaborations!
+Feel free to contact me to discuss potential opportunities or collaborations!
 
 ### *Disclaimer: The data used in these projects is either publicly available or has been anonymized to protect sensitive information.*
