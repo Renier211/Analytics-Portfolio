@@ -20,21 +20,14 @@ The primary purpose of this repository is to demonstrate my analytical skills an
 - Showcase Programming Skills: Through my coding projects, I highlight my programming skills and problem-solving abilities.
 
 ### Projects Included  
-1. Data Analysis in R
+1. Data Analysis in R  
 In this project, I analyze a dataset containing information about policyholders, insurance details, and claims. The main variable of interest is the premium paid by policyholders. Key tasks performed in this project include:  
     - Data cleaning and preprocessing  
     - Exploratory data analysis  
     - Statistical analysis to identify trends and patterns  
     - Data visualization to present findings  
   
-2. Financial Modeling in Python
-This project involves creating a financial model to forecast revenue and expenses for a hypothetical company. Key components of the project include:
-
-Building a revenue model based on historical data
-Developing expense projections
-Performing scenario analysis to evaluate different business strategies
-
-# Conclusion  
+### Conclusion  
 This repository serves as a testament to my analytical skills and my ability to leverage data to drive business insights. I am confident that my expertise in data analytics, financial modeling, and programming, combined with my strong work ethic and leadership skills, make me a valuable asset to any organization.
 
 Thank you for visiting my portfolio. Please feel free to explore the projects and reach out if you have any questions.
