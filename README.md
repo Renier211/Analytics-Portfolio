@@ -1,4 +1,3 @@
-This site was built using [GitHub Pages](https://pages.github.com/)
 # Analytics Portfolio
 Welcome to my analytics portfolio!  This repository is designed to showcase my analytical skills and demonstrate how I can leverage data analytics to drive business insights and support decision-making processes. Below, you will find detailed information about my background, skills, and the purpose of this repository.
 
