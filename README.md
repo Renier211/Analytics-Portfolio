@@ -16,7 +16,6 @@ The primary purpose of this repository is to demonstrate my analytical skills an
 
 - Manipulate and Analyze Data: Using various tools and techniques, I can transform raw data into meaningful insights.
 - Create Data Visualizations: My projects showcase my proficiency in creating clear and effective data visualizations to support decision-making.
-- Develop Financial Models: I demonstrate my expertise in building financial models that provide actionable insights and support strategic planning.
 - Showcase Programming Skills: Through my coding projects, I highlight my programming skills and problem-solving abilities.
 
 # Projects Included  
@@ -35,4 +34,4 @@ Cell:    +27 82 529 8970
 
 Feel free to contact me to discuss potential opportunities or collaborations!
 
-### *Disclaimer: The data used in these projects is either publicly available or has been anonymized to protect sensitive information.*
+### *Disclaimer: The data used in these projects is publicly available.*
