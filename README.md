@@ -18,7 +18,7 @@ The primary purpose of this repository is to demonstrate my analytical skills an
 - Showcase Programming Skills: Through my coding projects, I highlight my programming skills and problem-solving abilities.
 
 # Projects Included  
-### 1. Data Analysis in R: Vehicle Insurance Analysis
+### [1. Data Analysis in R: Vehicle Insurance Analysis](https://github.com/Renier211/Analytics-Portfolio/blob/main/01_Vehicle%20Insurance%20Analysis.ipynb)
 In this project, I analyze an Ethiopian insurance dataset containing information about policyholders, insurance details, and claims. The main variable of interest is the premium paid by policyholders. Key tasks performed in this project include:  
     - Data cleaning and preprocessing  
     - Exploratory data analysis  
