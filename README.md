@@ -20,7 +20,7 @@ The primary purpose of this repository is to demonstrate my analytical skills an
 
 # Projects Included  
 ### 1. Data Analysis in R: Vehicle Insurance Analysis
-In this project, I analyze a dataset containing information about policyholders, insurance details, and claims. The main variable of interest is the premium paid by policyholders. Key tasks performed in this project include:  
+In this project, I analyze an Ethiopian insurance dataset containing information about policyholders, insurance details, and claims. The main variable of interest is the premium paid by policyholders. Key tasks performed in this project include:  
     - Data cleaning and preprocessing  
     - Exploratory data analysis  
     - Statistical analysis to identify trends and patterns  
