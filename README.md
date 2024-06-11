@@ -1,4 +1,3 @@
-<a href="https://github.com/Renier211/Analytics-Portfolio/blob/main/01_Vehicle%20Insurance%20Analysis.ipynb> Link </a>
 # Analytics Portfolio
 Welcome to my analytics portfolio!  This repository is designed to showcase my analytical skills and demonstrate how I can leverage data analytics to drive business insights and support decision-making processes. Below, you will find detailed information about my background, skills, and the purpose of this repository.
 
