@@ -25,7 +25,7 @@ In this project, I analyze an Ethiopian insurance dataset containing information
     - Statistical analysis to identify trends and patterns  
     - Data visualization to present findings    
 
-### 2. Data Cleaning in Python: Mutual Fund Quarterly Holdings
+### [2. Data Cleaning in Python: Mutual Fund Quarterly Holdings](https://github.com/Renier211/Analytics-Portfolio/blob/main/02_Mutual%20Fund%20Quarterly%20Holdings.ipynb)
 This project analyzes quarterly mutual fund data from an Excel file, containing 72 sheets, to track stock holdings over time. Key tasks include importing data from multiple sheets, identifying and listing sheet names for each quarter, collecting unique FundISINs and their corresponding tickers, and sorting the quarters chronologically. An empty DataFrame is created to represent unique stocks and their presence in each quarter, which is then populated with the collected data. Finally, the aggregated DataFrame is saved to a new Excel file for further analysis or reporting.
   
 
