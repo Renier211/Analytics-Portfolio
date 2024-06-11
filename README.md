@@ -24,7 +24,10 @@ In this project, I analyze a dataset containing information about policyholders,
     - Data cleaning and preprocessing  
     - Exploratory data analysis  
     - Statistical analysis to identify trends and patterns  
-    - Data visualization to present findings  
+    - Data visualization to present findings    
+
+### 2. Mutual Fund Holdings Analysis: Quarterly Stock Tracking  
+This project analyzes quarterly mutual fund data from an Excel file, containing 72 sheets, to track stock holdings over time. Key tasks include importing data from multiple sheets, identifying and listing sheet names for each quarter, collecting unique FundISINs and their corresponding tickers, and sorting the quarters chronologically. An empty DataFrame is created to represent unique stocks and their presence in each quarter, which is then populated with the collected data. Finally, the aggregated DataFrame is saved to a new Excel file for further analysis or reporting.
   
 
 # Contact Information:
